@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi there! I'm JC KM (Julio Cesar)
 
-<!--
-**julio-monzem/julio-monzem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | 🚀 Salesforce Specialist | ⚙️ Integrations | 📊 Data & Automation
 
-Here are some ideas to get you started:
+I’m passionate about technology and building smart solutions that improve business performance.  
+Currently focused on **Salesforce Development (Apex, LWC), Integration Patterns (REST/SOAP), Clean Code, and Architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+**Languages & Frameworks**
+- Apex • JavaScript • LWC • SOQL • HTML/CSS
+
+**Platform & Cloud**
+- Salesforce CRM  
+- Flows & Automation  
+- REST / SOAP Integrations  
+- Git & GitHub  
+
+**Other Skills**
+- Unit Testing (Apex)  
+- Best Development Practices  
+- Salesforce Architecture & Patterns  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+## 🚀 Featured Projects
+
+- **Salesforce Components** – LWCs, Apex Controllers, and Integration Examples.  
+- **Study Repositories** – Algorithms, patterns, and clean code practice.  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/julio-monzem/  
+
+---
+
+⭐ *Feel free to explore my repositories and reach out anytime!*
