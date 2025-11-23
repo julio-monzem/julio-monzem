@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm JC KM (Julio Cesar)
+# 👋 Hi there! I’m Julio Kenji — you can call me Kenji.
 
 ### 💻 Developer | 🚀 Salesforce Specialist | ⚙️ Integrations | 📊 Data & Automation
 
